@@ -1,0 +1,34 @@
+[
+   {
+      "ups_adv_output_load": 6,
+      "ups_adv_battery_temperature": 23,
+      "@timestamp": "2021-04-20T15:34:58.290Z",
+      "host": "192.168.11.9",
+      "ups_adv_battery_run_time_remaining": 2,
+      "ups_adv_output_voltage": 234
+   },
+   {
+      "ups_adv_output_load": 17,
+      "ups_adv_battery_temperature": 25,
+      "@timestamp": "2021-04-20T15:35:00.806Z",
+      "host": "192.168.10.8",
+      "ups_adv_battery_run_time_remaining": 4,
+      "ups_adv_output_voltage": "EMOE"
+   },
+   {
+      "ups_adv_output_load": 6,
+      "ups_adv_battery_temperature": 23,
+      "@timestamp": "2021-04-20T15:39:58.333Z",
+      "host": null,
+      "ups_adv_battery_run_time_remaining": 6,
+      "ups_adv_output_voltage": 231
+   },
+   {
+      "ups_adv_output_load": 17,
+      "ups_adv_battery_temperature": 25,
+      "@timestamp": "2021-04-20T15:40:00.911Z",
+      "host": "192.168.10.8",
+      "ups_adv_battery_run_time_remaining": "trololo",
+      "ups_adv_output_voltage": 229
+   }
+]
